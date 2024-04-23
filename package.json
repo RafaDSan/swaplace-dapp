@@ -31,8 +31,8 @@
     "react-hot-toast": "^2.4.1",
     "react-intersection-observer": "^9.8.1",
     "siwe": "^1.1.6",
-    "viem": "^1.19.11",
-    "wagmi": "^1.4.7",
+    "viem": "^2.9.25",
+    "wagmi": "^2.5.20",
     "web3": "^4.3.0",
     "web3-eth-ens": "^4.0.8"
   },
